@@ -1,0 +1,43 @@
+h1 {
+    color:black;
+    padding: 15px 15px;
+    border: 2px ;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size:  50px;
+    
+}
+
+h2 {
+    color:black;
+    padding: 10px 305px;
+    border: 20px ;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: xx;
+
+}
+
+button {
+    background-color: rgb(1, 253, 178);
+    color: white;
+    padding: 100px 900px;
+    border-radius: 10px;
+    border-color: white;
+    margin-bottom: 20px;
+    align-items: center;
+    font-size: 40px;
+    
+}
+
+h4 {
+    color:rgb(255, 136, 0); 
+    
+
+}
+
+footer {
+    text-align: center;
+}
