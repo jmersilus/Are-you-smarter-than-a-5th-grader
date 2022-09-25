@@ -12,12 +12,18 @@ right.addEventListener("click", rightAnwser);
 
 function wrongAnwser(){
     window.alert("wrong")
+    if (wrongAnwser = "click" ){
+        window.alert("Try again")
+    }
 }
 
 function rightAnwser(){
     window.alert("right")
+    if (rightAnwser = "click" ){
+        window.open("http://127.0.0.1:5501/asset3/index.html")
+        window.close("http://127.0.0.1:5501/asset2/index.html")
+        
+    }
 
 }
 
-// Figure out how to link right anwser to next set
-// Wrong anwser will give alert

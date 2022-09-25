@@ -18,4 +18,11 @@ window.open("#")
     }, 1000);    
 }
 
+function startTest(){
+  if (startTest = "click" ){
+      window.open("http://127.0.0.1:5501/asset2/index.html")
+      window.close("http://127.0.0.1:5501/asset1/index.html")
+  }
+
+}
 
